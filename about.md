@@ -5,14 +5,33 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/my-profile.jpeg "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+# Hello!
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I'm **Young-min Kim (Jonas)**, currently working as a *Senior Data Scientist* at [AWS Korea](https://aws.amazon.com/ko/careers/professionalservices/).
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+## Professional Background
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+With over 14 years of experience as a data scientist and machine learning expert, I have:
+
+- Demonstrated strong adaptability to emerging trends like generative AI
+- Leveraged cutting-edge technologies to drive innovation
+- Developed solutions for complex business challenges
+
+## Technical Expertise
+
+My professional strengths include:
+
+- Deep understanding of ML/DL theory
+- Strong engineering capabilities
+- Proven track record of delivering high-value solutions across industries
+
+## Leadership & Impact
+
+Throughout my career, I have:
+
+- Successfully led multiple high-impact projects
+- Fostered effective team collaboration
+- Driven project success through technical expertise and strategic thinking
+- Consistently delivered results that meet the highest standards
