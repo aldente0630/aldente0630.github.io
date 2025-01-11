@@ -1,9 +1,11 @@
 source 'https://rubygems.org'
-gem 'jekyll', '<4'
+gem 'jekyll', '~> 3.9'
 gem 'jekyll-archives'
-gem 'jekyll-sitemap'
+gem 'jekyll-feed'
 gem 'jekyll-paginate-v2'
-gem 'base64', require: true
-gem 'bigdecimal', require: true
-gem 'kramdown-parser-gfm', require: true
-gem 'logger', require: true
+gem 'jekyll-sitemap'
+gem "base64" 
+gem "bigdecimal"
+gem "logger" 
+gem 'kramdown-parser-gfm'
+gem 'webrick'
