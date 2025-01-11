@@ -2,7 +2,7 @@ plugins:
   - jekyll-archives
   - jekyll-feed 
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 exclude:
   - "/vendor/"
@@ -25,14 +25,8 @@ kramdown:
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: "/page/:num/"
-  sort_reverse: true
-  trail:
-    before: 2
-    after: 2 
+paginate: 5
+paginate_path: "/page/:num/"
 
 jekyll-archives:
   enabled:
