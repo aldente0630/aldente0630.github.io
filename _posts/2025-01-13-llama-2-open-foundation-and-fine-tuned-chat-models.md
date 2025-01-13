@@ -2,8 +2,8 @@
 layout: post
 title: "Llama 2: Open Foundation and Fine-Tuned Chat Models"
 date: 2023-07-18 14:31:57
-author: "GenAI, Meta"
-categories: "Foundation-Models"
+author: "Meta AI"
+categories: "Language-Models"
 tags: ["Open-and-Efficient-Foundation-Language-Models", "Reinforcement-Learning-with-Human-Feedback", "Rotary-Positional-Embeddings", "Safety-Alignment", "Scaling-Laws-for-Large-Language-Models", "SwiGLU-Activation-Function"]
 use_math: true
 ---

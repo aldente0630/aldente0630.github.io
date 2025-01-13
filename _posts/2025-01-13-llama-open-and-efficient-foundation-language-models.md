@@ -3,7 +3,7 @@ layout: post
 title: "LLaMA: Open and Efficient Foundation Language Models"
 date: 2023-02-27 17:11:15
 author: "Meta AI"
-categories: "Foundation-Models"
+categories: "Language-Models"
 tags: ["Open-and-Efficient-Foundation-Language-Models", "Rotary-Positional-Embeddings", "SwiGLU-Activation-Function", "Scaling-Laws-for-Large-Language-Models", "Responsible-AI-Evaluation"]
 use_math: true
 ---
